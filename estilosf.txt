@@ -1,0 +1,2 @@
+body {background-color: #FF9900;}
+.palabra {font-size: 24px; color: #990000;}
